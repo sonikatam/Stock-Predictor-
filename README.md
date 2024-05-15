@@ -39,5 +39,5 @@ Google Colaboratory: Free cloud-based Jupyter notebook environment.
 Keras Documentation: Official documentation for Keras API.
 Yahoo Finance: Source of historical stock price data.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
