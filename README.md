@@ -31,6 +31,7 @@ model.add(Dense(25))
 model.add(Dense(1))
 
 model.compile(optimizer='adam', loss='mean_squared_error')
+```
 
 ## Acknowledgements
 
